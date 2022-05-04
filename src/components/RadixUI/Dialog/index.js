@@ -37,4 +37,6 @@ const Component = () => {
   );
 };
 
-export default Component;
+const MyDialog = styled(Component)``;
+
+export default MyDialog;

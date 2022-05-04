@@ -1,7 +1,8 @@
 import * as Accordion from "@radix-ui/react-accordion";
+import styled from "styled-components";
 
 // Your app...
-const MyAccordion = () => (
+const Component = () => (
   <Accordion.Root type="single" collapsible>
     <Accordion.Item value="item1">
       <Accordion.Header>
@@ -19,5 +20,7 @@ const MyAccordion = () => (
     </Accordion.Item>
   </Accordion.Root>
 );
+
+const MyAccordion = styled(Component)``;
 
 export default MyAccordion;
