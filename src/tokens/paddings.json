@@ -1,0 +1,35 @@
+{
+  "padding": {
+    "small": {
+      "value": "1rem"
+    },
+    "medium": {
+      "value": "1.5rem"
+    },
+    "large": {
+      "value": "2rem"
+    },
+    "section": {
+      "small": {
+        "value": "3rem"
+      },
+      "medium": {
+        "value": "5rem"
+      },
+      "large": {
+        "value": "7rem"
+      }
+    },
+    "text": {
+      "small": {
+        "value": "0.5rem"
+      },
+      "medium": {
+        "value": "1rem"
+      },
+      "large": {
+        "value": "1.5rem"
+      }
+    }
+  }
+}

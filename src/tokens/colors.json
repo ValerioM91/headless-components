@@ -1,0 +1,122 @@
+{
+  "colors": {
+    "light": {
+      "text": {
+        "default": {
+          "value": "#555555"
+        },
+        "primary": {
+          "value": "#0071bc"
+        },
+        "secondary": {
+          "value": "#eb4b36"
+        },
+        "tertiary": {
+          "value": "#04a384"
+        },
+        "quaternary": {
+          "value": "#f3c400"
+        }
+      },
+      "background": {
+        "default": {
+          "value": "#ffffff"
+        },
+        "background1": {
+          "value": "#f9f9f9"
+        },
+        "background2": {
+          "value": "#f3f3f3"
+        },
+        "primary": {
+          "value": "#0071bc"
+        },
+        "secondary": {
+          "value": "#eb4b36"
+        },
+        "tertiary": {
+          "value": "#04a384"
+        },
+        "quaternary": {
+          "value": "#f3c400"
+        }
+      },
+      "button": {
+        "default": {
+          "value": "#ffffff"
+        },
+        "primary": {
+          "value": "#0071bc"
+        },
+        "secondary": {
+          "value": "#eb4b36"
+        },
+        "tertiary": {
+          "value": "#04a384"
+        },
+        "quaternary": {
+          "value": "#f3c400"
+        }
+      }
+    },
+    "dark": {
+      "text": {
+        "default": {
+          "value": "#ffffff"
+        },
+        "primary": {
+          "value": "#469ED8"
+        },
+        "secondary": {
+          "value": "#F0897B"
+        },
+        "tertiary": {
+          "value": "#5EECD0"
+        },
+        "quaternary": {
+          "value": "#FAE387"
+        }
+      },
+      "background": {
+        "default": {
+          "value": "#393939"
+        },
+        "background1": {
+          "value": "#333333"
+        },
+        "background2": {
+          "value": "#999999"
+        },
+        "primary": {
+          "value": "#469ED8"
+        },
+        "secondary": {
+          "value": "#F0897B"
+        },
+        "tertiary": {
+          "value": "#5EECD0"
+        },
+        "quaternary": {
+          "value": "#FAE387"
+        }
+      },
+      "button": {
+        "default": {
+          "value": "#393939"
+        },
+        "primary": {
+          "value": "#469ED8"
+        },
+        "secondary": {
+          "value": "#F0897B"
+        },
+        "tertiary": {
+          "value": "#5EECD0"
+        },
+        "quaternary": {
+          "value": "#FAE387"
+        }
+      }
+    }
+  }
+}

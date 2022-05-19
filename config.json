@@ -2,6 +2,7 @@
   "source": ["./src/tokens/*.json"],
   "platforms": {
     "js": {
+      "transforms": ["name/cti/camel"],
       "transformGroup": "js",
       "buildPath": "./src/theme/",
       "files": [
